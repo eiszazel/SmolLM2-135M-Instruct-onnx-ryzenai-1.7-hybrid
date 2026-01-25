@@ -23,9 +23,6 @@ tags:
 - ## Quick Start
 For quickstart, refer to [Ryzen AI documentation](https://ryzenai.docs.amd.com/en/latest/hybrid_oga.html)
 
-#### Evaluation scores
-The MMLU scores are astronomy: , philosophy: , and management: .
-
 #### License
 Modifications copyright(c) 2026 Advanced Micro Devices,Inc. All rights reserved.
 
